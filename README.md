@@ -134,11 +134,6 @@ while (true) {
 
 ---
 
-## Contributors
-- **[Your Name]**: Implementation and documentation.
-
----
-
 ## References
 1. [RFC 6550 - RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks](https://tools.ietf.org/html/rfc6550)
 2. Research papers on RPL-based attacks in IoT networks.
